@@ -1,6 +1,6 @@
 import pickle
 
-def create_file()
+def create_file():
     f = open("student.dat", "wb")
     
     n = int(input("Enter number of students: "))
